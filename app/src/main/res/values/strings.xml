@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZZ_Notifications__JVm</string>
+    <string name="TV_JudulUtama_IDXML">Klik Untuk Melihat Contoh Notifikasi :</string>
+    <string name="B_Notification_Simple_IDXML">Notifikasi: Simple</string>
+    <string name="B_Notification_BigTextStyle_IDXML">Notifikasi: BigTextStyle</string>
+    <string name="B_Notification_BigPictureStyle_IDXML">Notifikasi: BigPictureStyle</string>
+    <string name="B_Notification_InboxStyle_IDXML">Notifikasi: InboxStyle</string>
+    <string name="Keluar">Keluar</string>
+    <string name="TV_Bahasa_IDXML">Pilih Bahasa :</string>
+</resources>
